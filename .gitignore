@@ -1,6 +1,6 @@
-dist/
-build/
-*egg-info*/
+dist*
+build*
+*egg*
 *pyc
 *~
 tmp

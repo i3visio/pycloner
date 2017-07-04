@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: pycloner
-Version: 0.1.0b5
+Version: 0.1.0
 Summary: pycloner is a package that tries to help in the process of manually crawling a website.
 Home-page: http://github.com/i3visio/pycloner
 Author: Felix Brezo and Yaiza Rubio
