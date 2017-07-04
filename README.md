@@ -32,7 +32,7 @@ Usage
 The package can be used either as a standalone application or as a library.
 
 ```
-pycrawler.py -u https://i3visio.com
+crawler_tool.py -u https://i3visio.com
 ```
 The websites cloned will be collected by default under `./tmp`. This option can be configured as a parameter.
 
